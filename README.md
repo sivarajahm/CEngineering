@@ -6,3 +6,6 @@ Tools/Functions for Civil and Water Resources Engineering
 
 devtools::install_github("sivarajahm/CEngineering", force=TRUE)
 
+<b><h1>Usage</h1></b>
+CEngineering::SDM2FF(5,10,"PL","UDL",0,5,1,1,1,1,1,1)
+
