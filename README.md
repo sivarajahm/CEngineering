@@ -12,10 +12,7 @@ CEngineering::SDM2FS(3,2,"UDL","PL",20,40,1,1,1,1,1,1)<br/>
 CEngineering::SDM2FSC(3,2,"UDL","PL",20,40,1,1,1,1,1,1,10,"C")
 
 <b><h1>Video</h1></b>
-<video width="320" height="240" controls>
-  <source src="https://www.w3schools.com/tags/movie1.mp4" type="video/mp4">
-  <source src="https://www.w3schools.com/tags/movie1.mp4.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 
