@@ -19,7 +19,7 @@ CEngineering::SDM2FSC(3,2,"UDL","PL",20,40,1,1,1,1,1,1,10,"C")<br/><br/>
 <b>SDM2FFSuper()</b><br/>
 inputMatrix=matrix(c(3,2,"PL","PL",40,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,2,1,1,1,1,1,3,2,"PL","UDL",0,5,1,1,1,1,1,1), nrow=3, byrow=TRUE)
 <br/>
-CEngineering::SDM2FFSuper(inputMatrix)<br/>
+CEngineering::SDM2FFSuper(inputMatrix)<br/><br/>
 <b>SDM2FSSuper()</b><br/>
 inputMatrix=matrix(c(3,2,"UDL","PL",20,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,1,1,1,1,1,1), nrow=2, byrow=TRUE)<br/>
 CEngineering::SDM2FSSuper(inputMatrix
