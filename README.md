@@ -11,11 +11,11 @@ devtools::install_github("sivarajahm/CEngineering", force=TRUE)
 
 <b><h1>Usage</h1></b>
 <b>SDM2FF()</b><br/>
-CEngineering::SDM2FF(5,10,"PL","UDL",0,5,1,1,1,1,1,1)<br/>
+CEngineering::SDM2FF(5,10,"PL","UDL",0,5,1,1,1,1,1,1)<br/><br/>
 <b>SDM2FS()</b><br/>
-CEngineering::SDM2FS(3,2,"UDL","PL",20,40,1,1,1,1,1,1)<br/>
+CEngineering::SDM2FS(3,2,"UDL","PL",20,40,1,1,1,1,1,1)<br/><br/>
 <b>SDM2FSC()</b><br/>
-CEngineering::SDM2FSC(3,2,"UDL","PL",20,40,1,1,1,1,1,1,10,"C")
+CEngineering::SDM2FSC(3,2,"UDL","PL",20,40,1,1,1,1,1,1,10,"C")<br/><br/>
 
 <b>SDM2FFSuper()</b><br/>
 inputMatrix=matrix(c(3,2,"PL","PL",40,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,2,1,1,1,1,1,3,2,"PL","UDL",0,5,1,1,1,1,1,1), nrow=3, byrow=TRUE)
