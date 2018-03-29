@@ -22,7 +22,7 @@ inputMatrix=matrix(c(3,2,"PL","PL",40,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,2,1,1,1,
 CEngineering::SDM2FFSuper(inputMatrix)<br/><br/>
 <b>SDM2FSSuper()</b><br/>
 inputMatrix=matrix(c(3,2,"UDL","PL",20,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,1,1,1,1,1,1), nrow=2, byrow=TRUE)<br/>
-CEngineering::SDM2FSSuper(inputMatrix
+CEngineering::SDM2FSSuper(inputMatrix)
 
 
 
