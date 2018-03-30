@@ -6,7 +6,7 @@ Tools/Functions for Civil and Water Resources Engineering
 
 devtools::install_github("sivarajahm/CEngineering", force=TRUE)
 
-<b><h1>Video</h1></b>
+<b><h1>Installation Video</h1></b>
 <a href="http://www.abzwater.com/sdm/video">http://www.abzwater.com/sdm/video</a>
 
 <b><h1>Usage</h1></b>
@@ -23,6 +23,8 @@ CEngineering::SDM2FFSuper(inputMatrix)<br/><br/>
 <b>SDM2FSSuper()</b><br/>
 inputMatrix=matrix(c(3,2,"UDL","PL",20,40,1,1,1,1,1,1,3,2,"PL","PL",40,0,1,1,1,1,1,1), nrow=2, byrow=TRUE)<br/>
 CEngineering::SDM2FSSuper(inputMatrix)<br/><br/>
+<b>SDM3FF()</b><br/>
+CEngineering::SDM3FF(8,4,8,"PL","UDL","PL",40,24,20,4,1,4,1,1,1,1,1,1)<br/><br/>
 <b><h1>Related Links</h1></b>
 http://abzwater.com/sdm/<br/>
 http://abzwater.com/sdm/mload/
