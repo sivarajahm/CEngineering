@@ -10,7 +10,7 @@ devtools::install_github("sivarajahm/CEngineering", force=TRUE)
 <a href="http://www.abzwater.com/sdm/video">http://www.abzwater.com/sdm/video</a>
 
 <b><h1>Usage</h1></b>
-<b>SDM2FF()</b><br/>
+<b style="color:blue;">SDM2FF()</b><br/>
 CEngineering::SDM2FF(5,10,"PL","UDL",0,5,1,1,1,1,1,1)<br/><br/>
 <b>SDM2FS()</b><br/>
 CEngineering::SDM2FS(3,2,"UDL","PL",20,40,1,1,1,1,1,1)<br/><br/>
